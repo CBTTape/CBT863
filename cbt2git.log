@@ -1,0 +1,6 @@
+2023-04-03 03:16:39.847873 - Initialized conversion of CBT863
+2023-04-03 03:16:39.882275 - Received CBT.V504.FILE863.PDS from FILE863.XMI 
+2023-04-03 03:16:39.884950 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE863.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:16:39.885949 - Found @FILE863.txt (text/plain) in CBT.V504.FILE863.PDS, moved to PDS/@FILE863
+2023-04-03 03:16:39.887009 - Found IKJEFF1$.jcl (text/plain) in CBT.V504.FILE863.PDS, moved to PDS/IKJEFF1$
+2023-04-03 03:16:39.888127 - Found IKJEFF10.txt (text/plain) in CBT.V504.FILE863.PDS, moved to PDS/IKJEFF10
